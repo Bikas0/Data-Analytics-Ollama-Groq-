@@ -1,0 +1,6 @@
+pandasai 
+openpyxl 
+langchain_groq 
+langchain_community
+chainlit
+python-dotenv
